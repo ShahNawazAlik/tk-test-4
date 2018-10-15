@@ -1,0 +1,43 @@
+
+.inner-div{
+    max-width: 165px;
+    padding: 5px;
+    
+}
+.heading-div{
+    border: 1px solid #c5c8cb;
+    width: 150px;
+    border-radius: 3px;
+    /* height: 75px; */
+}
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.second-div-strong{
+    color: #b44230
+}
+.name{
+    margin: 3px 10px ;
+    font-size: 19px;
+}
+.price{
+    margin: 3px 10px;
+    font-size: 15px;
+
+}
+#hardcover-div{
+    border-color: #e87d39;
+}
+.blue{
+    color: #186dc3;
+    font-size: 17px;
+}
+.gray{
+    color: #8a8b8b;
+}
+.fab {
+    color: #f8be71;
+}
